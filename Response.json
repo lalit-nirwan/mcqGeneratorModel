@@ -1,0 +1,24 @@
+{
+  "1": {
+    "no": "1",
+    "mcq": "Multiple question here?",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "correct": "correct_answer"
+  },
+  "2": {
+    "no": "2",
+    "mcq": "Multiple questions here?",
+    "options": {
+      "A": "Option 1",
+      "B": "Option 2",
+      "C": "Option 3",
+      "D": "Option 4"
+    },
+    "correct": "correct_answer"
+  }
+}

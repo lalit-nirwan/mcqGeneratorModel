@@ -1,0 +1,4 @@
+Modern data foundations drive trusted GenAI outcomes
+Companies are sitting on mountains of data that are difficult to mine, analyze, and deploy. To benefit from this wealth of information, enterprises are turning to generative AI tools and solutions—which depend on a strong data foundation and responsible artificial intelligence practices for success.
+
+Kyndryl helps you build a robust data foundation to capture business value from GenAI deployments. Our co-creation process and expertise in running mission-critical systems enable you to develop tailored generative AI solutions that are secure, scalable, and aligned with your business goals.
