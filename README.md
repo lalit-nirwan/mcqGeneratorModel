@@ -1,1 +1,2 @@
-# mcqGeneratorModel
+# mcqGenAI
+MCQ Generator 
